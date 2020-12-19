@@ -70,7 +70,7 @@ sections:
     subtitle: I look forward to hearing from you
     actions:
       - label: Learn More
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
