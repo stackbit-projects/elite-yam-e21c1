@@ -67,9 +67,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: I'm always on the look out to learn more
-    subtitle: >-
-      I look forward to hearing from you - please explore the other projects
-      I've done
+    subtitle: I look forward to hearing from you
     actions:
       - label: Learn More
         url: /features
