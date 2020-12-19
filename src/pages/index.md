@@ -32,7 +32,7 @@ sections:
           player destroying, checkpoint enabling...The expansion of what my
           platforms can provide prevails in this personal project of mine.
         align: left
-        image: images/feature.svg
+        image: images/mighty-cabbage.jpg
         image_position: right
         actions:
           - label: Learn More
