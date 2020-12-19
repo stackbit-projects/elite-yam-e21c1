@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Latest Project
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'A dynamic platform pack, for '
     actions:
       - label: Learn More
         url: /features
