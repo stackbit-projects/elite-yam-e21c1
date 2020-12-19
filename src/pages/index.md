@@ -28,7 +28,7 @@ sections:
     features:
       - title: Al's Platform Pack
         content: >-
-          Rotating, translating, transform, spline following, player launch,
+          Rotating, translating, transforming, spline following, player launch,
           player destroying, checkpoint enabling...The expansion of what my
           platforms can provide prevails in this personal project of mine.
         align: left
