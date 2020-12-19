@@ -51,9 +51,9 @@ sections:
             style: secondary
       - title: Garden Hero
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Join Fey, on a journey to save her friends from the threat of the big,
+          wide world and put a stop the evil miasma that has been purging her
+          friends and livelihood.
         align: left
         image: images/GardenHero.jpg
         image_position: right
