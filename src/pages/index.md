@@ -67,7 +67,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: I'm always on the look out to learn more
-    subtitle: ''
+    subtitle: 'Please contact me if you have '
     actions:
       - label: Learn More
         url: /features
