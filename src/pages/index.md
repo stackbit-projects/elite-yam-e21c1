@@ -40,9 +40,8 @@ sections:
             style: secondary
       - title: VR Fire Extinguisher training
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          A demonstration of a VR training experience, to educate the user on
+          the correct fire extinguisher to use on differing fires
         align: left
         image: images/feature.svg
         image_position: left
