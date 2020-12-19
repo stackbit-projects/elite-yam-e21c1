@@ -69,7 +69,7 @@ sections:
     title: I'm always on the look out to learn more
     subtitle: I look forward to hearing from you
     actions:
-      - label: Learn More
+      - label: Contact Me
         url: /contact
         style: primary
     has_background: true
