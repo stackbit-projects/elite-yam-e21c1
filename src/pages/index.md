@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Latest Project
-    subtitle: 'A dynamic platform pack, for game developers '
+    subtitle: >-
+      A dynamic platform pack, for game developers. Each type of platform
+      derives from a single Blueprint.
     actions:
       - label: Learn More
         url: /features
