@@ -24,7 +24,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Projects
     features:
       - title: Al's Platform Pack
         content: >-
