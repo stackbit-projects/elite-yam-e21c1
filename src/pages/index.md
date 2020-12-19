@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Latest Project
-    subtitle: 'A dynamic platform pack, for platformer game '
+    subtitle: 'A dynamic platform pack, for game developers '
     actions:
       - label: Learn More
         url: /features
