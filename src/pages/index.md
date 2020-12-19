@@ -43,7 +43,7 @@ sections:
           A demonstration of a VR training experience, to educate the user on
           the correct fire extinguisher to use on differing fires
         align: left
-        image: images/feature.svg
+        image: images/FireExtinguisherVR.jpg
         image_position: left
         actions:
           - label: Learn More
