@@ -66,7 +66,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: 'I''m always on the look out for '
+    title: I'm always on the look out to learn more
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
