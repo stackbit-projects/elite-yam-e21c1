@@ -28,9 +28,9 @@ sections:
     features:
       - title: Al's Platform Pack
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Rotating, translating, transform, spline following, player launch,
+          player destroying, checkpoint enabling...The expansion of what my
+          platforms can provide prevails in this personal project of mine.
         align: left
         image: images/feature.svg
         image_position: right
